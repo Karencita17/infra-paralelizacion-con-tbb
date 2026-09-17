@@ -23,6 +23,7 @@ void producto(const vector<int> &u, const vector<int> &v, vector<int> &w,
 // TODO: cada hilo suma su trozo de w y deja el parcial en `salida`. Acumular
 // en una variable local y escribir `salida` una sola vez al final.
 void sumar(const vector<int> &w, size_t ini, size_t fin, long &salida) {
+  //Git push de prueba
 }
 
 // TODO: reparte [0, n) en k trozos, lanza los hilos del producto y los une;
